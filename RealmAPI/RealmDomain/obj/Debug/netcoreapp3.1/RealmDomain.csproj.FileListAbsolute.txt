@@ -1,0 +1,12 @@
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDomain\bin\Debug\netcoreapp3.1\RealmDomain.deps.json
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDomain\bin\Debug\netcoreapp3.1\RealmDomain.runtimeconfig.json
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDomain\bin\Debug\netcoreapp3.1\RealmDomain.runtimeconfig.dev.json
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDomain\bin\Debug\netcoreapp3.1\RealmDomain.dll
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDomain\bin\Debug\netcoreapp3.1\RealmDomain.pdb
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDomain\obj\Debug\netcoreapp3.1\RealmDomain.AssemblyInfoInputs.cache
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDomain\obj\Debug\netcoreapp3.1\RealmDomain.AssemblyInfo.cs
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDomain\obj\Debug\netcoreapp3.1\RealmDomain.csproj.CoreCompileInputs.cache
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDomain\obj\Debug\netcoreapp3.1\RealmDomain.dll
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDomain\obj\Debug\netcoreapp3.1\RealmDomain.pdb
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDomain\obj\Debug\netcoreapp3.1\RealmDomain.genruntimeconfig.cache
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDomain\obj\Debug\netcoreapp3.1\RealmDomain.csprojAssemblyReference.cache

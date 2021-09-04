@@ -1,0 +1,15 @@
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\bin\Debug\netcoreapp3.1\RealmDAL.deps.json
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\bin\Debug\netcoreapp3.1\RealmDAL.runtimeconfig.json
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\bin\Debug\netcoreapp3.1\RealmDAL.runtimeconfig.dev.json
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\bin\Debug\netcoreapp3.1\RealmDAL.dll
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\bin\Debug\netcoreapp3.1\RealmDAL.pdb
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\bin\Debug\netcoreapp3.1\RealmDomain.dll
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\bin\Debug\netcoreapp3.1\RealmDomain.pdb
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\obj\Debug\netcoreapp3.1\RealmDAL.csprojAssemblyReference.cache
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\obj\Debug\netcoreapp3.1\RealmDAL.AssemblyInfoInputs.cache
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\obj\Debug\netcoreapp3.1\RealmDAL.AssemblyInfo.cs
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\obj\Debug\netcoreapp3.1\RealmDAL.csproj.CoreCompileInputs.cache
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\obj\Debug\netcoreapp3.1\RealmDAL.csproj.CopyComplete
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\obj\Debug\netcoreapp3.1\RealmDAL.dll
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\obj\Debug\netcoreapp3.1\RealmDAL.pdb
+C:\Users\b_lap\Documents\GitHub\RealmStore\RealmAPI\RealmDAL\obj\Debug\netcoreapp3.1\RealmDAL.genruntimeconfig.cache
